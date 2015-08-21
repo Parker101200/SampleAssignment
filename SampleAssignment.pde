@@ -1,4 +1,4 @@
-size(300,300);
+size(400,400);
 var x = 21;
 var y = 40;
 var speed = 1;
