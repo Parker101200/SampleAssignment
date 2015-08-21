@@ -1,3 +1,4 @@
+size(300,300);
 var x = 21;
 var y = 40;
 var speed = 1;
